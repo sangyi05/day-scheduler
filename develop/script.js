@@ -1,4 +1,4 @@
-var rightNow = moment().format("dddd, MMMM Do YYYY")
+var rightNow = moment().format('LL')
 $("#currentDay").append(rightNow)
 
 var tasks = $(".save-button").on("click", function(event) {
