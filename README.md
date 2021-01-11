@@ -1,7 +1,7 @@
 # day-scheduler
 
 ## Purpose
-A website that functioning as a daily palnner to manage schedules and tasks.
+A website that functions as a daily palnner to manage schedules and tasks.
 
 ![Date](develop/date.png)
 
